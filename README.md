@@ -1,4 +1,16 @@
 ### Hi there 👋
+🌴 I'm Ben, and I am:
+- Based in London 🇬🇧
+- A junior software engineer 💻
+- Working with Go & Cloud Services ☁️
+
+I am a problem solver with a strong interest in security, resilience & scaleable code and infrastructure, and I am continually working to develop my skills in these areas:
+
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
+[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
+
+🧐Where to find me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/benbullock1997/)
 
 
