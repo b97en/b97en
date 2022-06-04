@@ -1,8 +1,8 @@
-### Hi there 👋
-🌴 I'm Ben, and I am:
-- Based in London 🇬🇧
-- A junior software engineer 💻
-- Working with Go & Cloud Services ☁️
+### 👋 Hello 👋
+🌴 I'm Ben, and I am ... 🌴
+🇬🇧 Based in London 🇬🇧
+💻 A junior software engineer 💻
+☁️ Working with Go & Cloud Services ☁️ 
 
 I am a problem solver with a strong interest in security, resilience & scaleable code and infrastructure, and I am continually working to develop my skills in these areas:
 
