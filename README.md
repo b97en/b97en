@@ -7,7 +7,7 @@
 
 ☁️ Working with Go & Cloud Services ☁️ 
 
-I am a problem solver with a strong interest in security, resilience & scaleable code and infrastructure, and I am continually working to develop my skills in these areas:
+I am a problem solver with a strong interest in security, scaleable code and infrastructure, and I am continually working to develop my skills in these areas:
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
