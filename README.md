@@ -7,7 +7,7 @@
 
 ☁️ Working with Go & Cloud Services
 
-A natural tinkerer who really enjoys problem-solving. I have a passion for security, scalability in code and infrastructure as well as general performance optimisation. I am continually working to develop my skills in these areas:
+A natural tinkerer who really enjoys problem-solving. I have a passion for security, scalability in code & infrastructure as well as cost & general performance optimisation. I am continually working to develop my skills in these areas:
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
